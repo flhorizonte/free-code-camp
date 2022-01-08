@@ -1,2 +1,2 @@
 # free-code-camp
-Some of Free Code Camp algorithms 
+Some of studied Free Code Camp algorithms 
